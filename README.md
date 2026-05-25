@@ -128,7 +128,7 @@ Through this project, I improved my skills in:
 ## 🎓 Dashboard Landing Page
 
 <p align="center">
-  <img src="assets/dashboard-preview.png" width="500"/>
+  <img src="Screenshot 2026-05-25 125920.png" width="500"/>
 </p>
 
 ---
